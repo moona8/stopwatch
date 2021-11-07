@@ -13,6 +13,7 @@ function App() {
   // Not started = 0
   // started = 1
   // stopped = 2
+    
   const start = () => {
     run();
     setStatus(1);
