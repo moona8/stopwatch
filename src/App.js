@@ -1,8 +1,8 @@
 
   
 import React, {useState} from 'react';
-import DisplayComponent from './Components/DisplayComponent';
-import BtnComponent from './Components/BtnComponent';
+import DisplayComponent from './components/DisplayComponent';
+import BtnComponent from './components/BtnComponent';
 import './App.css';
 
 function App() {
